@@ -1,0 +1,37 @@
+🔍 GOOGLE MAPS SCRAPER
+=====================
+👨‍💻 Feito por Lucas Henrique Messias Gonçalves
+
+📁 COMO USAR:
+
+1️⃣ CLIQUE DUAS VEZES em GoogleMapsScraper_v2.exe
+
+2️⃣ DIGITE o que deseja buscar:
+   • casa de carnes
+   • padaria  
+   • farmácia
+   • restaurante
+   • etc.
+
+3️⃣ DIGITE a cidade:
+   • Cerquilho
+   • São Paulo
+   • Sorocaba
+   • etc.
+
+4️⃣ AGUARDE a busca terminar
+
+5️⃣ ARQUIVO EXCEL será criado automaticamente!
+
+📊 O arquivo terá:
+   ✅ Nome dos estabelecimentos
+   ✅ Telefones
+   ✅ Links do WhatsApp
+   ✅ Links do Google Maps
+   ✅ Sites (quando disponível)
+
+🕒 Nome do arquivo inclui data e hora automaticamente
+📍 Busca expandida com termos relacionados
+🎯 Remove duplicatas automaticamente
+
+💡 DICA: O executável não precisa instalar nada!
