@@ -26,7 +26,10 @@ Ferramenta para buscar estabelecimentos no Google Maps e gerar arquivo Excel com
 ## 🚀 Como Usar
 
 ### Opção 1: Download do Executável (Mais Fácil)
-1. **[Baixe o executável](https://github.com/SEU-USUARIO/google-maps-scraper/releases)** da seção Releases
+1. **[Baixe o executável](https://github.com/LucasHenriqueMessias/GoogleMapsScraping/blob/main/dist/GoogleMapsScraper_v2.exe)** diretamente do GitHub
+   - Clique no link acima
+   - Clique no botão "Download" na página do GitHub
+   - Salve o arquivo em uma pasta de sua escolha
 2. **Clique duas vezes** no arquivo baixado
 3. **Digite o tipo de estabelecimento** (ex: "casa de carnes", "padaria")
 4. **Digite a cidade** (ex: "Cerquilho", "São Paulo")
@@ -36,8 +39,8 @@ Ferramenta para buscar estabelecimentos no Google Maps e gerar arquivo Excel com
 ### Opção 2: Executar com Python
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/SEU-USUARIO/google-maps-scraper.git
-   cd google-maps-scraper
+   git clone https://github.com/LucasHenriqueMessias/GoogleMapsScraping.git
+   cd GoogleMapsScraping
    ```
 
 2. **Instale as dependências:**
