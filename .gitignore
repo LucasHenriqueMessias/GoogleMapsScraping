@@ -1,6 +1,4 @@
 # Executáveis
-*.exe
-dist/
 build/
 *.spec
 
