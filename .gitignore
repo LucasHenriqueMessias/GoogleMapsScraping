@@ -1,6 +1,8 @@
 # Executáveis
 build/
 *.spec
+dist/
+*.exe
 
 # Arquivos Python
 __pycache__/
